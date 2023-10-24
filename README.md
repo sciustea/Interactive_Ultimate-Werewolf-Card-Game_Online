@@ -2,4 +2,6 @@
 
 *in progress*
 
- An Ultimate Werewolf card game that will be playable online
+ An interactive Ultimate Werewolf Card Game that will be playable online. 
+ 
+ It is created using JavaScript, HTML, and CSS.
