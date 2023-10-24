@@ -2,4 +2,4 @@
 
 *in progress*
 
- An Ultimate Werewolf card game that would be playable online
+ An Ultimate Werewolf card game that will be playable online
