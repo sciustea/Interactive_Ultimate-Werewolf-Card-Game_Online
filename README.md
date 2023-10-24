@@ -4,4 +4,4 @@ in progress, still in the works
 
 
 
- A Ultimate Werewolf Card Game that would be playable online
+ An Ultimate Werewolf card game that would be playable online
