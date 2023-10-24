@@ -1,0 +1,34 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1> One Night Ultimate 23</h1>
+        <h2 id="timer-el">1</h2>
+        <button id="increase-timer-btn">+ TIME</button>
+        <button id="decrease-timer-btn">- TIME</button>
+        <button id="start-btn" onclick."timerFunc()"> START </button>
+        <button id="end-round-btn" onclick."endRound()">END ROUND</button>
+        <h2 id="select-cards"> Select Cards: </h2>
+
+        <div class="images-container">
+            <div class="cards-overlay-container" id="overlay"></div>
+            <img src="werewolfIMG.jpg" alt="werewolf 1 image" id="wolf1" class="card-class">
+            <img src="werewolfIMG.jpg" alt="werewolf 2 image" id="wolf2" class="card-class">
+            <img src="robberIMG.png" alt="robber image" id="robber" class="card-class">
+            <img src="seerIMG.png" alt="seer image" id="seer" class="card-class">
+            <img src="villagerIMG.jpg" alt="villager 1 image" id="villager1" class="card-class">
+            <img src="villagerIMG.jpg" alt="villager 2 image" id="villager2" class="card-class">           
+            <img src="insomniacIMG.jpg" alt="insomniac image" id="insomniac" class="card-class">
+        </div>
+    </div>
+    <script src="cards.js"></script>
+    <script src="timer.js"></script>
+
+</body>
+
+</html>

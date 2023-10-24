@@ -1,0 +1,46 @@
+/* Body styles */
+body {
+  background-color: green;
+  font-family: 'Segoe UI', Tahoma, sans-serif;
+  height: 110vh; /* Extend to 110% of viewport height */
+  margin-top: 50px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#timer-el {
+  font-size: 50px;
+}
+
+#select-cards {
+  margin-top: 50px;
+}
+
+/* Button styles */
+button {
+  font-size: 20px;
+  color: white;
+  background-color: black;
+  padding: 5px 10px; /* Padding values */
+  border-radius: 15px; /* Rounded corners */
+}
+
+.images-container {
+  display: block;
+  margin: 0 auto; /* Center align horizontally */
+  flex-wrap: wrap; /* Enable content wrapping */
+}
+
+.card-class {
+  opacity: 0.55; /* Semi-transparent */
+  cursor: pointer; /* Pointer cursor on hover */
+  position: relative;
+  margin-top: 20px;
+  margin-left: 12px;
+  width: 100px;
+  height: 130px;
+  border-radius: 10px; /* Rounded corners */
+  border: 2px solid black;
+}
